@@ -1,11 +1,9 @@
 Legal Notice & Disclaimer: This document is a working research summary compiled for informational and analytical purposes only. It reflects publicly available reports, statements, and observable behavior at the time of writing. Nothing contained herein should be interpreted as a verified fact, legal conclusion, or allegation of criminal conduct by any individual or entity. The author(s) do not assert or imply guilt, innocence, liability, or wrongdoing. Readers are cautioned that all persons are presumed innocent until proven guilty in a court of law. This material is intended solely for private study, discussion, and documentation of public discourse.
 
----
 
 # Josh Hammer Controversy
 Commentators and social-media users have questioned aspects of Josh Hammer’s public statements following the crime.
 
----
 
 ### Evidence For
 
@@ -19,7 +17,6 @@ Commentators and social-media users have questioned aspects of Josh Hammer’s p
 
 - After the victim’s written statements became public, Hammer did not acknowledge or clarify the inconsistencies between his earlier descriptions and the released material.
 
----
 
 ### On Candace Owens
 
@@ -48,18 +45,15 @@ Commentators and social-media users have questioned aspects of Josh Hammer’s p
 - His rhetorical approach—labeling criticism as “insane” without direct rebuttal—resembles that of certain political figures responding to similar controversies.  
   *(This is an analytical observation, not an assertion of coordination or influence.)*
 
----
 
 ### Analysis of Evidence
 The collected materials indicate a pattern of narrative framing by Hammer that prioritizes control over factual precision.  
 While these behaviors may suggest self-protective communication strategies, they do not establish motive, culpability, or any form of criminal involvement.
 
----
 
 ### Evidence Against
 - Hammer stated he became emotional and cried while recording a podcast shortly after the crime.
 
----
 
 ### Conclusion
 The available evidence reflects efforts by Hammer to shape public perception following the incident.  
