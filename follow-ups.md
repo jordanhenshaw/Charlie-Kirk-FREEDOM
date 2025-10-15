@@ -4,7 +4,13 @@ This page is intended for seeking outside help to collect evidence, to offer exp
 
 - Requesting parallel interviews with both the audience member who last spoke to victim and with the security gaurd immediately to victim's right at the time of the shooting. Ask, "When the shot came, did you hear a hiss?" If security gaurd says yes and crowd member says no, then the shot came from the tunnel. If the opposite, the shot came from the front. If neither or both say yes, the result is inconclusive.
 
-- Requesting ballistics test using an AK-47 caliber rifle shooting at ballistics dummy with a neck wearing a comparable cross pendant on a necklace with a shirt on. Please attempt to reproduce the action of the necklace/cross depicted in the footage. Please also try to reproduce the apparent swish of air observed travleing through the shirt. Use this reproduction to see if the footage is more consistent with a shot from in front or with a shot from behind. 
+- Recommending ballistics test (~$3k):
+  - Small caliber, high velocity rifle with silencer
+  - Ballistics dummy of upper torso with skeletal system
+  - Dummy wears shirt and a necklace with a cross pendant
+  - Shoot from dummy's 4-5 o'clock position aiming at bottom of skull
+  - Use high speed camera to film behavior of shirt and necklace
+  - Take note of bullet's path and of any damage to front neck by the cross pendant
 
 - Requesting on-site video exterior examination of the Sparks Automotive building to determine if the building is or was recently under construction and if its height has increased since Google Earth imagery and terrain data as of September, 2025.
 
