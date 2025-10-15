@@ -1,11 +1,4 @@
-**Legal Notice & Disclaimer**  
-This document is a working research summary compiled for informational and analytical purposes only.  
-It reflects publicly available reports, statements, and observable behavior at the time of writing.  
-Nothing contained herein should be interpreted as a verified fact, legal conclusion, or allegation of criminal conduct by any individual or entity.  
-The author(s) do not assert or imply guilt, innocence, liability, or wrongdoing.  
-Readers are cautioned that all persons are presumed innocent until proven guilty in a court of law.  
-This material is intended solely for private study, discussion, and documentation of public discourse.  
-All factual references are drawn from verifiable public sources.
+Legal Notice & Disclaimer: This document is a working research summary compiled for informational and analytical purposes only. It reflects publicly available reports, statements, and observable behavior at the time of writing. Nothing contained herein should be interpreted as a verified fact, legal conclusion, or allegation of criminal conduct by any individual or entity. The author(s) do not assert or imply guilt, innocence, liability, or wrongdoing. Readers are cautioned that all persons are presumed innocent until proven guilty in a court of law. This material is intended solely for private study, discussion, and documentation of public discourse.
 
 ---
 
@@ -34,14 +27,14 @@ Commentators and social-media users have questioned aspects of Josh Hammer’s p
 
 1. Publicly available communications suggest the victim revised his views on Israel approximately 48 hours before the crime, reportedly contrary to Hammer’s position.
 2. Hammer stated that he participated in a discussion with the victim regarding Israel support the night before the crime.
-3. Around that same time, Hammer posted a tweet/X message referencing public executions.  
+3. Around that same time, Hammer reposted a years-old tweet/X post that endorsed public executions.  
    *No evidence indicates any connection between this post and the subsequent event.*
 4. Following the crime, Hammer publicly characterized the victim’s position on Israel in ways not consistent with the earlier written statements that had been available to him.
 
 #### Owens Responds
 
-- Candace Owens publicly alleged that Hammer misrepresented the victim’s stance on Israel.
-- She further suggested that Hammer’s post about public executions, made the night before the event, was thematically connected to the execution that occurred the following day.  
+- Candace Owens publicly alleged that Hammer willfully misrepresented the victim’s stance on Israel.
+- She further insinuated that Hammer’s post about public executions, made the night before the event, was thematically connected to the execution that occurred the following day.  
   *This assertion remains an interpretation; no evidence has been presented showing a direct connection.*
 
 #### Hammer’s Response to Owens
