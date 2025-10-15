@@ -16,6 +16,7 @@ Strongly suggestive, but not conclusive. No direct evidence of a weapon in this 
 - Slope to victim inconsistent with Surgeon’s report.
 - Distance to victim inconsistent with audio delay.
 - Wound on victim inconsistent with rifle caliber.
+- A computerized 3D reproduction of crime scene suggests that the height of crowd members obstructed line of sight fron Losee Center shooting position to victim. Higher precision models required to confirm.
 
 ### Conclusion:
 Evidence is generally inconsistent with the named rifle, but shooting position may hold.
