@@ -2,7 +2,7 @@ Legal Notice & Disclaimer: This document is a working research summary compiled 
 
 - Appeared to voluntarily broadcast an extremely intimate moment with a deceased human body onto social media
 - Rose to the position of CEO at TPUSA a week after the crime with the authority of hearsay, not legal documents
-- Evidence of derealization, numbness, depersonalization, and avoidance are markedly absent from all public appearances
+- Evidence of derealization, numbness, depersonalization, and avoidance appear markedly absent from all public appearances
 - Highly composed performative, attention-seeking, and theatrical behaviors present throughout all public appearances
 
 
