@@ -5,7 +5,7 @@ Law Enforcement claims Tyler Robinson is responsible for firing the shot.
 
 ### Supporting Evidence:
 - Robinson’s gun was found in a bush outside the campus.
-- A screwdriver allegedly with Robinson's DAN on it was found on a roof.
+- A screwdriver allegedly with Robinson's DNA on it was found on a roof.
 - Messages that appear to be sent from Robinson’s phone that confess to the crime.
 - Blurry image of a man in a stairwell.
 - Blurry video of a man running across a roof and jumping off.

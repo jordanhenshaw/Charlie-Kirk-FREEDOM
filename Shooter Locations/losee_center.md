@@ -1,7 +1,7 @@
 # Losee Center Theory
 A shooter hops over a short fence from a pedestrian area onto the roof. Shooter then assembles long rifle, a Mauser .30-06. Shooter then approaches shooting area and is seen by a civilian camera. Shooter then takes the shot. Egress is filmed from many cameras starting at 3 seconds following the shot.
 
-Supporting Evidence: 
+### Supporting Evidence: 
 - Civilian footage depicting a figure in prone position with a shot shortly before shot.
 - CCTV footage depicting a figure running across the roof and jumping off it.
 - Civilian footage depicting a figure running across the roof 3 seconds after shot.
