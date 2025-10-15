@@ -11,6 +11,7 @@ Unconfirmed Candidates:
 - Possible photo(s) of a rifle with a silencer in a van behind the victim with line of sight to victim at time of crime.
 - Entry wound in victim's head in the rear.
 - A computerized 3D reproduction of crime scene suggests that the height of crowd members obstructed line of sight fron Losee Center shooting position to victim. Higher precision models required to confirm. EDIT: Upon more refinement, the model no longer suggests impairment of line-of-sight. EDIT: Further analysis examining Exhibit 5 contradicts the 3D reconstruction scaling, suggesting this obstruction could stand.
+- If there are scrapes, cuts, or gashes on victim's chest beneath the apparent neck wound, it would validate the speculation that the wound was caused not by a bullet coming from the front, but by the cross pendant. If confirmed, the reasoning for placing the shooter in front quickly evaporates.
 
 
 Confirmed (share with authorities immediately): 

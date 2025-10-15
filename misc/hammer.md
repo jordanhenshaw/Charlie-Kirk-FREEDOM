@@ -31,7 +31,7 @@ Commentators and social-media users have questioned aspects of Josh Hammer’s p
 #### Owens Responds
 
 - Candace Owens publicly alleged that Hammer willfully misrepresented the victim’s stance on Israel.
-- She further insinuated that Hammer’s post about public executions, made the night before the event, was thematically connected to the execution that occurred the following day.  
+- She further insinuated that Hammer’s post about public executions, made the night before the event, was thematically connected to the public execution that occurred the following day.  
   *This assertion remains an interpretation; no evidence has been presented showing a direct connection.*
 
 #### Hammer’s Response to Owens
