@@ -11,3 +11,5 @@ This page is intended for seeking outside help to collect evidence, to offer exp
 - Requesting that the appropriate law enforcement and medical authorities rule out beyond any question the possibility of a hidden, very hard-to-spot entry wound on the back of victim's head, beneath the hair.
 
 - Requesting that the appropriate law enforcement authorities track down the registration of the van in the tunnel if this has not been done already.
+
+- We really, really need a public, age-restricted database with as much of the original, raw, uncut footage as possible. This is really important for being able to quickly find the main angles without having to search across 50 different heavily edited X videos each time.
