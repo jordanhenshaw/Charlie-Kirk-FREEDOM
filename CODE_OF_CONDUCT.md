@@ -48,6 +48,11 @@ This repository is dedicated to **fact-finding and prevention**, not blame. To p
 
 ---
 
-## 8. Acknowledgment
+## 8. Exculpatory Evidence
+- If this project results in information or evidence that, by itself and without our argumentation, is highly likely to lead to the actual exoneration of anyone charged with a crime, we are morally, ethically, and personally obligated to share it directly with the authorities by all lawful and appropriate means.
+
+---
+
+## 9. Acknowledgment
 By contributing to this repository, you agree to follow this Code of Conduct and understand that this is a **public, research-oriented workspace**, not a forum for advocacy or accusation.  
 All analysis remains provisional and subject to revision as evidence develops.
