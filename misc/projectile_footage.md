@@ -26,6 +26,7 @@ Must position the object in 3D space to verify anything.
 - ChatGPT was allegedly used to approximate the physical, actual distance between the specks.
 - There is no evidence any attempt was made to place the specks in a virtual 3D environment.
 - Therefore, the 500 ft/s claim is poorly evidenced.
+- Claim that victim was wearing an earpiece at the time of the crime is definitively and conclusively and exhaustively ruled out by Exhibit 11, and a cornocopia of other high resolution photographs and videos showing no oppurtunity to add an earpiece between when the high resolution photographs were taken and the time of the crime. The object shown flying off the neck area could have only been the necklace, clearly evident in the photographs and videos.
 
 
 ### On Video Compression:
