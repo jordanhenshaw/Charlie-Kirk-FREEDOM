@@ -15,15 +15,15 @@ According to listings on carvana.com:
 
 ...the van under the tunnel appears to be a Chrysler Pacifica. Because of the red line above the license plate visible in Exhibit 12, the year is likely not 2020, but 2021, 2022, 2023, or 2024. The red line appears in the 2021 model and above, but not in the 2020 model and below.
 
-The following information is based on the 2023 model and is taken from [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Pacifica_(minivan))
+#### The following information is based on the 2023 model and is taken from [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Pacifica_(minivan))
 
-Vehicle Weight: 4,330 lb (1,964 kg)
-Vehicle Height: 69.9–70.7 in (1,775–1,796 mm)
-Vehicle Width: 79.6 in (2,022 mm)
+- Vehicle Weight: 4,330 lb (1,964 kg)
+- Vehicle Height: 69.9–70.7 in (1,775–1,796 mm)
+- Vehicle Width: 79.6 in (2,022 mm)
 
-Wireless Key Fob with Rear Door Power Control: True
+- Wireless Key Fob with Rear Door Power Control: True
 
-According to chrysler.com:
+#### According to chrysler.com:
 Vehicle Internal Volume: 32.3 cu. ft.
 
 See Exhibit 14 for interior view of 2023 model trunk:
