@@ -11,7 +11,7 @@ Is worth investigating further, but the results must be reproducible and conclus
 
 
 ### Evidence Against;
-- Initial attempts to reproduce could not achieve consistent results. The same search term and settings occasionally produced no results and occasionally produced data indicating a spike. 
+- Initial attempts to reproduce could not achieve consistent results. The same search term and settings occasionally produced no results and occasionally produced data indicating a spike.
 
 
 ### Conclusion:
