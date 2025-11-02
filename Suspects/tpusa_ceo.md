@@ -7,4 +7,20 @@ Legal Notice & Disclaimer: This document is a working research summary compiled 
 
 
 ### Comments
-Atypical.
+Public affect is characterized by consistent, directed expressiveness that paints a clear and consistent public image. Few behavioral matches could be found between these behaviors and behaviors commonly associated with grief.
+
+Behaviors commonly associated with grief:
+
+- Social withdrawal
+- Hopelessness
+- Anger
+- Confusion
+- Drowsiness
+- Physiological crying
+- Mood swings
+- Distrust of others
+- Paranoia
+
+The public affect and statements do not appear to be consistent with any of these behaviors. Therefore, this investigation rejects the hypothesis that grief is present. The expected grief behaviors typically manifest in body language and decisions. Public performances and public statements are not a substitute for body language and decisions when determining if grief is present. 
+
+This does not in any way, shape, or form suggest criminal culpability of any kind. Rather, it is a rejection of the hypothesis that the observed behavior must stem from the specific experience known as grief. No other conclusions can be drawn downstream of this exercise without actual evidence.
