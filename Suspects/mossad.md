@@ -15,9 +15,12 @@ Some people speculate that Mossad carried out this assassination because Kirk ch
 - Israel’s media behavior shifted significantly in the month following the crime
 - Kirk allegedly refused a $150 million dollar gift from Israel shortly before the crime
 - Kirk allegedly refused an invitation to Israel shortly before the crime
+- Unconfirmed report of an Egyptian military plane following victim around in months/years prior
+- Unconfirmed report of the same Egyptian military plane landing in the area right before the crime
+- Candace Owens claims to have a foriegn source stating the Egyptian plane was conducting a mission at the time
 
 ### Analysis of Evidence:
-None of the evidence directly leads to the hypothesis. However, the evidence builds a circumstantial case against Mossad.
+Evidence appears to establish motive and means, but does not establish criminal culpability.
 
 ### Evidence Against:
 - [None known]
